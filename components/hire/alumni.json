@@ -1024,5 +1024,28 @@
     "status": "looking for jobs",
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "20-02-2021"
+  },
+  {
+    "id": 43,
+    "roles": ["alumni"],
+    "name": "Beth Jackson",
+    "email": "beth.jack@gmail.com",
+    "photo": "/static/alumni/photos/beth.jpg",
+    "github": "https://github.com/cph-kiwi",
+    "pdfCV": "/static/alumni/cv/beth.pdf",
+    "portfolio": "https://cph.kiwi/",
+    "linkedin": "www.linkedin.com/in/beth-jackson-4a29ab193",
+    "skills": [
+      "JS",
+      "Express.js",
+      "MySQL",
+      "React",
+      "HTML",
+      "CSS",
+      "Node.js"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "2 June 2021",
+    "lastUpdateDate": "15 Dec 2021"
   }
 ]
