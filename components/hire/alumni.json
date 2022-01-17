@@ -1025,4 +1025,37 @@
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "20-02-2021"
   }
+  {
+    "id": 43,
+    "roles": ["alumni"],
+    "name": "Beth Jackson",
+    "email": "beth.jack@gmail.com",
+    "photo": "/static/alumni/photos/beth.jpg",
+    "pdfCV": "/static/alumni/cv/beth.pdf",
+    "github": "https://github.com/cph-kiwi",
+    "linkedin": "https://www.linkedin.com/in/cph-kiwi/",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Next.js",
+      "Storybook",
+      "Express.js",
+      "Knex.js",
+      "MySQL",
+      "Heroku",
+      "Vercel",
+      "Postman",
+      "Git",
+"Styled-components",
+"Firebase",
+"Figma"
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "06-01-2021",
+    "lastUpdateDate": "17-01-2022"
+  }
 ]
